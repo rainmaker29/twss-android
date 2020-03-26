@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">twss</string>
+    <string name="title_activity_web_view">twss</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="action_back">Back</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_home">Home</string>
+</resources>
